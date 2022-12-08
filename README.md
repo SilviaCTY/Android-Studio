@@ -1,3 +1,4 @@
 # Android-Studio
 Mobile Software programming 
-期末專案_java/firebase
+期末專案
+*java/firebase
